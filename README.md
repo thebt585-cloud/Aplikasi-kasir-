@@ -1,4 +1,3 @@
-# Aplikasi-kasir-
 <html lang="id">
 <head>
 <meta charset="UTF-8">
@@ -64,12 +63,12 @@ Kasir Mobile Pro
 
 <div class="card">
 <h3>🍽️ Produk</h3>
-<div class="row"><span>Bakso Mercon Ceker</span><button class="small green" onclick="add('Es Teh',5000)">+</button></div>
-<div class="row"><span>Bakso Kuah</span><button class="small green" onclick="add('Nasi Goreng',5000)">+</button></div>
-<div class="row"><span>Cilok Bumbu</span><button class="small green" onclick="add('Ayam Goreng',5000)">+</button></div>
-<div class="row"><span>Cilok Kuah</span><button class="small green" onclick="add('Ayam Goreng',5000)">+</button></div>
-<div class="row"><span>Seblak Ceker</span><button class="small green" onclick="add('Ayam Goreng',5000)">+</button></div>
-<div class="row"><span>Gorengan</span><button class="small green" onclick="add('Ayam Goreng',5000)">+</button></div>
+<div class="row"><span>Bakso Mercon Ceker</span><button class="small green" onclick="add('Bakso Mercon Ceker',5000)">+</button></div>
+<div class="row"><span>Bakso Kuah</span><button class="small green" onclick="add('Bakso Kuah',5000)">+</button></div>
+<div class="row"><span>Cilok Bumbu</span><button class="small green" onclick="add('Cilok Bumbu',5000)">+</button></div>
+<div class="row"><span>Cilok Kuah</span><button class="small green" onclick="add('Cilok Kuah',5000)">+</button></div>
+<div class="row"><span>Seblak Ceker</span><button class="small green" onclick="add('Seblak Ceker',5000)">+</button></div>
+<div class="row"><span>Gorengan</span><button class="small green" onclick="add('Gorengan',5000)">+</button></div>
 </div>
 <div class="card"
 <h3>🛒 Keranjang</h3>
